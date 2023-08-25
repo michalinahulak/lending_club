@@ -28,6 +28,7 @@ My goal is to build a predictive model that can accurately predict whether an in
 * lending_club.ipynb -notebook with preprocessing and modeling
 * images folder -to keep all images that I used
 * Lending_Club_presentation.pdf - final presentation with introduction, goal, results and conclusions
+* LICENSE
 
 ## How to Run the Project?
 To open the project, use the git clone command or download the selected files. Also, you can open project on Google Colab.
