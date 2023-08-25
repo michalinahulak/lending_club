@@ -7,6 +7,8 @@ The Lending Club project aims to develop a predictive model based on historical 
 ## Introduction
 In this data science project, I delve into the world of lending and finance by leveraging the extensive dataset provided by the Lending Club. Lending Club, as one of the most prominent peer-to-peer lending platforms, has amassed a vast repository of historical data regarding borrowers, their financial profiles, and the outcomes of their loan applications. This treasure trove of information presents us with a unique opportunity to harness the power of data science and machine learning to make informed credit risk assessments.
 
+The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+
 ## Why This Project Matters
 This project holds significant importance in the financial and lending domain, offering valuable insights and benefits to multiple stakeholders:
 * Lending Institutions: Lenders can use the predictive model to make more informed and data-driven lending decisions. By accurately assessing the creditworthiness of applicants, they can minimize default risks and optimize their lending strategies. This leads to better portfolio performance and reduced financial losses.
